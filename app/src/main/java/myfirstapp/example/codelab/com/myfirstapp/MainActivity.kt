@@ -1,4 +1,4 @@
-package myfirstapp.example.codelab.com.myfirstapp
+    package myfirstapp.example.codelab.com.myfirstapp
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
